@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SpirosKProfile , a DevOps in Profile Software
 - 👀 I’m interested in DevOps stuff, Games and D&D!
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I’m currently learning Kubernetes. 
+- ✨ Proficient in Jenkins & Ansible, amongst other.
 - 📫 How to reach me: skakouris@profilesw.com
 
 <!---
